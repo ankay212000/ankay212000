@@ -18,6 +18,7 @@
 ## Current Works
  * I'm currently working on 🔭 building **Mobile Apps using Flutter** 
  * Working up on polishing my skills 🌱 in **Competitive Programming**.
+ 
   ## Myself
  ```c++
  class myself
@@ -46,17 +47,18 @@
         //lot more ;)
       }
  };
+ ```
  
  ## Some of my favourite projects that I enjoyed working on
  * <a href="https://github.com/ankay212000/News_app_2.0">Pocket News</a>
  * <a href="https://github.com/ankay212000/FaceRecognition-attendance-machine">Face Recognition Attendence machine</a>
  * <a href="https://github.com/ankay212000/face_count_auth">System usage efficiency calculator</a>
 	
- ```
  ## Resume
  -:octocat: [My Resume](https://drive.google.com/file/d/1MqdqC_1LNDBbw8gO8KbnbldNOnPph-Fx/view?usp=sharing)
 
  ![Haany's github stats](https://github-readme-stats.vercel.app/api?username=ankay212000&show_icons=true&hide=[%22issues%22])
+ 
  
  ## Sites that I love to visit
  * <a href="https://a2oj.pratikdaigavane.me/ladder11">Practice Codeforces</a>
