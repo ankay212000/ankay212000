@@ -10,7 +10,7 @@
 * Flutter
 * Machine Learning
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ankay212000&layout=compact">
 
 ## Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
@@ -63,7 +63,7 @@
  ## Sites that I love to visit
  * <a href="https://a2oj.pratikdaigavane.me/ladder11">Practice Codeforces</a>
  * <a href="https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ">Learn DS ALGO</a>
- * <a href="https://practice.geeksforgeeks.org/explore/?company%5B%5D=Amazon&problemType=functional&page=1&sortBy=submissions">Practice DS Algo</a>
+ * <a href="https://practice.geeksforgeeks.org/explore/">Practice DS Algo</a>
  * <a href="https://www.pepcoding.com/most-important-interview-questions-list-for-product-based-companies">Must Do Interview Question List for FAANG</a>
  * <a href="https://medium.com"> For reading Flutter blogs</a>
  * <a href="https://stackoverflow.com"> You all know why :grinning: </a>
