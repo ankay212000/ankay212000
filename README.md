@@ -50,9 +50,9 @@
  ```
  
  ## Some of my favourite projects that I enjoyed working on
+ * <a href="https://github.com/ankay212000/Study-Circle">Study Circle</a>
  * <a href="https://github.com/ankay212000/News_app_2.0">Pocket News</a>
  * <a href="https://github.com/ankay212000/FaceRecognition-attendance-machine">Face Recognition Entry/Exit machine</a>
- * <a href="https://github.com/ankay212000/face_count_auth">System usage efficiency calculator</a>
 	
  ## Resume
  -:octocat: [My Resume](https://docs.google.com/document/d/162RmpENEetbZgdgCchZUD-BScJBTbYJF8XiS_rnB6Qs/edit?usp=sharing)
