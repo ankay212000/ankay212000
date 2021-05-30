@@ -55,7 +55,7 @@
  * <a href="https://github.com/ankay212000/face_count_auth">System usage efficiency calculator</a>
 	
  ## Resume
- -:octocat: [My Resume](https://docs.google.com/document/d/1p4HHgeNVJGQVVhfYBcYsCR9qxoB4U2FVsKZtBoUxCVc/view)
+ -:octocat: [My Resume](https://docs.google.com/document/d/162RmpENEetbZgdgCchZUD-BScJBTbYJF8XiS_rnB6Qs/edit?usp=sharing)
 
  ![Haany's github stats](https://github-readme-stats.vercel.app/api?username=ankay212000&show_icons=true&hide=[%22issues%22])
  
