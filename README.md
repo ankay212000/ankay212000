@@ -57,7 +57,7 @@
  ## Resume
  -:octocat: [My Resume](https://docs.google.com/document/d/162RmpENEetbZgdgCchZUD-BScJBTbYJF8XiS_rnB6Qs/edit?usp=sharing)
 
- ![Haany's github stats](https://github-readme-stats.vercel.app/api?username=ankay212000&show_icons=true&hide=[%22issues%22])
+ ![Nitish's github stats](https://github-readme-stats.vercel.app/api?username=ankay212000&show_icons=true&hide=[%22issues%22])
  
  
  ## Sites that I love to visit
