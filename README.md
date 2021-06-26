@@ -4,6 +4,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nitish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankay21200/)](https://www.linkedin.com/in/ankay21200/) [![Gmail Badge](https://img.shields.io/badge/-ankay212000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ankay212000@gmail.com)](mailto:ankay212000@gmail.com)
 
+[![Badge](https://cp-logo.vercel.app/codechef/dkyu021)](https://www.codechef.com/users/dkyu021) [![Badge](https://cp-logo.vercel.app/codeforces/dkyu021)](https://codeforces.com/profile/dkyu021)
+
+
+
 "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code. But I prefer to sacrifice my bed for it."
 
 ## :computer: Technologies I Love
