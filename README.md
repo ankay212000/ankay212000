@@ -59,7 +59,7 @@
  * <a href="https://github.com/ankay212000/FaceRecognition-attendance-machine">Face Recognition Entry/Exit machine</a>
 	
  ## Resume
- -:octocat: [My Resume](https://drive.google.com/file/d/1dBHD83nr9Xu9IIq_S1LK2UcouhisjOI4/view?usp=sharing)
+ -:octocat: [My Resume](https://drive.google.com/file/d/1QK_S3q5LC_N6O2JAuHX1P_IWITv_Hek0/view?usp=sharing)
 
  ![Nitish's github stats](https://github-readme-stats.vercel.app/api?username=ankay212000&show_icons=true&hide=[%22issues%22])
  
